@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Test-only host for Unreal.Shared's MindAtticShared plugin (UNRE-T2): enables it exactly as a game does and logs what it sees.",
+	"Modules": [
+		{
+			"Name": "HostProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"MindAtticHeadless"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MindAtticShared",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../Plugins"
+	]
+}

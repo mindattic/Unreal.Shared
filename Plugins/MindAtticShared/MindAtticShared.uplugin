@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MindAttic Shared",
+	"Description": "Features every MindAttic Unreal game shares instead of copying. MindAtticHeadless: an off-by-default --headless launch mode (no window, no sound, no dialogs) for scripted and automated testing.",
+	"Category": "MindAttic",
+	"CreatedBy": "MindAttic",
+	"CreatedByURL": "https://mindattic.com",
+	"DocsURL": "https://github.com/mindattic/Unreal.Shared",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MindAtticHeadless",
+			"Type": "Runtime",
+			"LoadingPhase": "EarliestPossible"
+		}
+	]
+}
