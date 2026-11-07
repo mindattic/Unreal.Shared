@@ -1,0 +1,11 @@
+# HOUSE-LAW-13: every tracked text file is LF. Narrow overrides only below.
+* text=auto eol=lf
+
+# Unreal binary assets
+*.uasset binary
+*.umap binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.dll binary
+*.zip binary

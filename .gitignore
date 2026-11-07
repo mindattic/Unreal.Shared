@@ -1,0 +1,11 @@
+# Unreal build output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+.vs/
+# dotnet build output
+bin/
+obj/
+TestResults/
