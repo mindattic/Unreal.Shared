@@ -59,8 +59,8 @@ Add the plugin and the directory it lives in. Relative paths are from the folder
 
 | Where the .uproject is | `AdditionalPluginDirectories` entry |
 |---|---|
-| repo root (`Unreal.Soulslike/UnrealSoulslike.uproject`) | `"../Unreal.Shared/Plugins"` |
-| a subfolder (`SpaceGod/Cpp/SpaceGod.uproject`, `Unreal.Soulslike/CSharp/...`, `*/CSharp/...`) | `"../../Unreal.Shared/Plugins"` |
+| repo root (`Unreal.Playground/UnrealSoulslike.uproject`) | `"../Unreal.Shared/Plugins"` |
+| a subfolder (`SpaceGod/Cpp/SpaceGod.uproject`, `Unreal.Playground/CSharp/...`, `*/CSharp/...`) | `"../../Unreal.Shared/Plugins"` |
 
 ```json
 {
