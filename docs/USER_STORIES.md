@@ -22,4 +22,4 @@ _Nothing recorded yet._
 | ID | Date | Type | Status | Summary | Ref |
 |---|---|---|---|---|---|
 | UNRE-T1 | 2026-11-06 | docs | closed | Start the permanent ticket log in the ticket database | — |
-| UNRE-T2 | 2026-11-06 | feature | open | A shared Unreal plugin with an off-by-default --headless mode for every MindAttic Unreal game | — |
+| UNRE-T2 | 2026-11-06 | feature | closed | A shared Unreal plugin with an off-by-default --headless mode for every MindAttic Unreal game | e192c42 |
