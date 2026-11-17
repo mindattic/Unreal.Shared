@@ -23,3 +23,5 @@ _Nothing recorded yet._
 |---|---|---|---|---|---|
 | UNRE-T1 | 2026-11-06 | docs | closed | Start the permanent ticket log in the ticket database | — |
 | UNRE-T2 | 2026-11-06 | feature | closed | A shared Unreal plugin with an off-by-default --headless mode for every MindAttic Unreal game | e192c42 |
+| UNRE-T3 | 2026-11-10 | chore | closed | Adopt the shared docs-site pipeline: turn on GitHub Pages | — |
+| UNRE-T4 | 2026-11-17 | docs | closed | Update USER_STORIES.md | — |
